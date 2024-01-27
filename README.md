@@ -1,4 +1,4 @@
-# Simple modern UI/UX GPT-3 built with React
+# Simple modern UI/UX GPT-3 website built with React
 
 ### [Live Site](https://mnikov00.github.io/React-gpt3-website/)
 
